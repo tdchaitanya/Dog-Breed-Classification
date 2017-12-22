@@ -16,3 +16,5 @@ I have experimented with three architectures for this project.
 - CNN from Scratch
 - Transfer learning using VGG-16
 - Transfer learning using Resnet50
+
+All the code and results are can be seen in the [notebook](https://github.com/think-data/Dog-Breed-Classification/blob/master/dog_app.ipynb)
